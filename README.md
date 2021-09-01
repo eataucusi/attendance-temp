@@ -5,4 +5,5 @@
     Raspberry Pi 4 Modelo B
     Python 3
     OpenCV 4.1.0.25
+    
     Sensor de temperatura MLX90614
