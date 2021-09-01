@@ -3,7 +3,6 @@
 Los íconos provienen de fontello.com.
 
 Classes:
-
     Icon
 
 """
