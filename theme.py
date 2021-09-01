@@ -1,4 +1,4 @@
-"""Provee el conjunto de íconos para la aplicación.
+"""Provee un conjunto de íconos para la aplicación.
 
 Los íconos provienen de fontello.com.
 
@@ -22,7 +22,6 @@ class Icon(object):
         instance
 
     """
-
     _instance = None
 
     def __init__(self):
