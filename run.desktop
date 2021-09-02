@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Attendance-Temp
-Comment=Control de asistencia y temperatura
-Exec=ruta a starup.sh (por ejemplo, /home/usuario/Documentos/starup.sh)
-Icon=icono.jpg
-Terminal=false
-Type=Application
